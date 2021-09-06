@@ -5,8 +5,8 @@ J'étudies à la Wild Code School le métier de développeur web.
 - 🔭 Travail sur plusieurs projets frontend et backend en utilisant React et Nodejs 
 <br>
 Connectez-vous avec moi
-
-<a href="https://www.linkedin.com/in/benvenuti-ludivine-525233109/"<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<br>
+<a href="https://www.linkedin.com/in/benvenuti-ludivine-525233109/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br> 
 <br>
