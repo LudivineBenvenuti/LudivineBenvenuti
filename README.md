@@ -3,7 +3,8 @@
 J'étudies à la Wild Code School le métier de développeur web. 
 
 - 🔭 Travail sur plusieurs projets frontend et backend en utilisant React et Nodejs 
-<br>
+
+
 ## Connectez-vous avec moi
 
 
