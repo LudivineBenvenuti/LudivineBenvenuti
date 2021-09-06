@@ -1,6 +1,6 @@
 ### Hello World from France 👋 
 
-I study @ the Wild Code School for an exciting new life as a web developer!
+J'étudies à la Wild Code School le métier de développeur web. 
 
 - 🔭 Travail sur plusieurs projets frontend et backend en utilisant React et Nodejs 
 <br>
