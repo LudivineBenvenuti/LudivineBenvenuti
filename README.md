@@ -1,8 +1,9 @@
 ### Hello World from France 👋 
 
-J'étudies à la Wild Code School le métier de développeur web. 
+Après une formation de 5 mois de Développeur Web à la Wild Code School, 
+je suis actuellement en stage en tant que Développeuse Mobile Flutter chez ICHTUS IT.
 
-- 🔭 Travail sur plusieurs projets frontend et backend en utilisant React et Nodejs 
+- 🔭 Travail sur plusieurs projets frontend et backend en utilisant React et Nodejs.
 
 
 ## Connectez-vous avec moi
